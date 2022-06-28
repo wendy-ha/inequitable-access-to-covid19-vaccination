@@ -1,4 +1,4 @@
-# An investigation on the factors that contribute to global inquitable access to the Covid-19 vaccination
+# An investigation on the factors that contribute to global inequitable access to the Covid-19 vaccination
 ## Technologies and resource
 - Python 3.6
 - Analysis libraries: numpy, pandas
