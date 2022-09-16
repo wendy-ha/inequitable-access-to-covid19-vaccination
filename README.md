@@ -27,7 +27,7 @@ The report specifically seeks to answer the following questions:
 - **How population, economic and quality of healthcare system impact vaccine distribution throughout the world?**
 
 At the end, the purpose of this research is to provide some valuable insights into the parameters controlling COVID-19 vaccine worldwide distribution. Based on this, the COVAX's officials may refer to and optimize their approach for more efficient deployment.
-## PART1: Geographic Analysis
+## PART 1: Geographic Analysis
 Bar charts and Choropleth map illustrate the vaccination progress between regions in the world
 ### Q1: What are the top biggest countries with vaccinations progress ?
 
