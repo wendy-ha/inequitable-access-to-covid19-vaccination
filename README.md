@@ -3,7 +3,7 @@
 - Python 3.6
 - Analysis libraries: numpy, pandas
 - Visualization libraries: matplotlib, seaborn, plotly (interactive visualization)
-- Author: Wendy Ha (Swinburne University of Technology)
+- Author: Wendy Ha
 - Datasets: [Our World in Data](https://github.com/owid/covid-19-data), [Duke Global Health Innovation Centre](https://sdgstoday.org/dataset/covid-19-vaccine-procurement), [UN Data](https://www.kaggle.com/sudalairajkumar/undata-country-profiles )
 - Notebook with details coding: [https://colab.research.google.com/drive/1_y5MCmAptpWYK-XxzziXwRSCJXfWTyX3?usp=sharing](https://colab.research.google.com/drive/17LTS_td83AOCK4S_4gBwj3AaX5FNX87Y?usp=sharing)
 ## Background and motivation
